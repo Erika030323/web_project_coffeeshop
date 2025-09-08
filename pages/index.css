@@ -60,7 +60,6 @@
 }
 
 .header__content {
-  position: absolute;
   margin-right: 80px;
 }
 
@@ -99,4 +98,24 @@
   max-width: 646px;
   top: 124px;
   right: 5px;
+}
+
+.header__footer {
+  display: flex;
+  margin-top: auto;
+  width: 100%;
+  align-items: center;
+  justify-content: flex-end;
+  box-sizing: border-box;
+  padding: 80px 40px;
+}
+
+.header__paragraph {
+  font-style: normal;
+  font-weight: 500;
+  color: #838383;
+  margin: 0;
+  font-family: "Inter";
+  font-size: 16px;
+  line-height: 20px;
 }
