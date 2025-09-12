@@ -214,11 +214,10 @@
   font-weight: 500;
   font-size: 44px;
   line-height: 52px;
-  margin: 100px 80px;
+  margin: 100px 80px 120px;
 }
 
 .reservation__form {
-  margin-bottom: 120px;
   display: flex;
   justify-content: center;
 }
