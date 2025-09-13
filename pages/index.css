@@ -213,18 +213,17 @@
   font-weight: 500;
   font-size: 44px;
   line-height: 52px;
+  margin: 100px auto 80px;
 }
 
 .reservation__form {
   display: flex;
   justify-content: center;
-  margin-top: 100px;
-  margin-bottom: 80px;
 }
 
 .form {
   border-radius: 9px;
-  padding: 32px;
+  /*padding: 32px;*/
 }
 
 .form__fieldset {
