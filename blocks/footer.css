@@ -1,0 +1,31 @@
+.footer {
+background-color: #0a2850;
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+box-sizing: border-box;
+min-height: 300px;
+padding: 60px 80px;
+}
+
+.footer__content {
+
+}
+
+.footer__logo {
+width: 105px;
+height: 39px;
+position: relative;
+}
+
+.footer__circle {
+width: 128px;
+height: 44px;
+border-radius: 100%;
+color: #2f80ed;
+z-index: 30px;
+}
+
+.footer__social {
+
+}
