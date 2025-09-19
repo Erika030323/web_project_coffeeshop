@@ -18,4 +18,4 @@ Las herramientas usadas para desarrollar la pagina web fueron las siguientes:
 *HOVERS
 *Entre otros.
 
-Una mejora a futuro seria agregar un menu mas extenso donde indique variedad de productos, precios y forma de pago.
+Una mejora a futuro seria agregar un menu mas extenso donde indique variedad de productos, precios y forma de pago. 
