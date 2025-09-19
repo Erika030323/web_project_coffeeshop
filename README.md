@@ -15,7 +15,8 @@ Las herramientas usadas para desarrollar la pagina web fueron las siguientes:
 *BARRA DE NAVEGACION
 *METODOLOGIA BEM: para la organizacion correcta de CSS
 *POSICIONAMIENTO
-*HOVERS
+*NORMALIZE.CSS: Estilos del navegador.
+*GIT/GITHUB: Control de revisiones
 *Entre otros.
 
 Una mejora a futuro seria agregar un menu mas extenso donde indique variedad de productos, precios y forma de pago. 
